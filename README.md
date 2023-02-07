@@ -23,3 +23,4 @@ The file 'customer_booking.csv' contains the training data with the target varia
 <li>flight_duration = total duration of flight (in hours)<br>
 <li>booking_complete = flag indicating if the customer completed the booking<br>
 
+This project was part of my virtual interview with British Airways through Cognizant.
