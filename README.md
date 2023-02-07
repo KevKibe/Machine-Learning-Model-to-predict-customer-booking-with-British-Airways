@@ -2,7 +2,8 @@
 # Task
 Build a model that predicts which customer books with the airline using the data provided<br>
 To find out what are the most important features for building the model<br>
-
+ 
+ # Data
 The file 'customer_booking.csv' contains the training data with the target variable 'booking_complete' which indicates 0 for a customer that did not complete booking and 1 for those that copleted booking.<br>
  
  To provide more context, below is a more detailed data description, explaining exactly what each column means:<br>
