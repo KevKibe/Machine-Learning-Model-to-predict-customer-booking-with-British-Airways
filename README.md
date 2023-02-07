@@ -1,7 +1,7 @@
 # Machine Learning Model to predict which customer books with British Airways<br>
 # Task
-Predicting customer behaviour using data from British Airways<br>
-
+Build a model that predicts which customer books with the airline using the data provided<br>
+To find out what are the most important features for building the model<br>
 
 The file 'customer_booking.csv' contains the training data with the target variable 'booking_complete' which indicates 0 for a customer that did not complete booking and 1 for those that copleted booking.<br>
  
@@ -21,3 +21,4 @@ The file 'customer_booking.csv' contains the training data with the target varia
 <li>wants_in_flight_meals = if the customer wanted in-flight meals in the booking<br>
 <li>flight_duration = total duration of flight (in hours)<br>
 <li>booking_complete = flag indicating if the customer completed the booking<br>
+
