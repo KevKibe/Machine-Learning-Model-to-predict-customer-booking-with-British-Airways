@@ -25,7 +25,7 @@ The file 'customer_booking.csv' contains the training data with the target varia
 
 #Feature Importances
 The most important Features that determine whether a customer books with British airways are:
- 
- ![image](https://github.com/KevKibe/Classification-Model-to-predict-customer-booking-with-an-airline/assets/86055894/c0f982ee-ace5-40e7-ad87-27ee0cf8c73d)
 
- 
+
+ ![image](https://github.com/KevKibe/Classification-Model-to-predict-customer-booking-with-an-airline/assets/86055894/ea6eb958-680d-4171-86f3-5a086a5273cd)
+
