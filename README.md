@@ -23,11 +23,13 @@ The file 'customer_booking.csv' contains the training data with the target varia
 <li>flight_duration = total duration of flight (in hours)<br>
 <li>booking_complete = flag indicating if the customer completed the booking<br>
 
-#Feature Importances
+# Feature Importances
 The most important Features that determine whether a customer books with British airways are:
 
 
- ![image](https://github.com/KevKibe/Classification-Model-to-predict-customer-booking-with-an-airline/assets/86055894/ea6eb958-680d-4171-86f3-5a086a5273cd)
-
-Most important features are **purchase_lead, flight_hour, length_of_stay, flight_duration, flight_day.**
-
+![image](https://github.com/KevKibe/Predicting-Customer-Retention-for-British-Airways/assets/86055894/aec90069-6fc7-4c61-929b-e5b558e539cb)
+ 
+Most important features are **flight_duration, length of stay and wants extra baggage.**
+- The flight duration i.e how long a flight takes determines whether a customer books with the airline or not
+- The length of stay at the destination of the customer alsodetermine whether they will book or not. 
+- The option to carry extra baggage or not greatly influences the choice of the customer to make a booking.
