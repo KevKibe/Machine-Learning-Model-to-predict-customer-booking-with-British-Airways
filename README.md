@@ -29,3 +29,5 @@ The most important Features that determine whether a customer books with British
 
  ![image](https://github.com/KevKibe/Classification-Model-to-predict-customer-booking-with-an-airline/assets/86055894/ea6eb958-680d-4171-86f3-5a086a5273cd)
 
+Most important features are **purchase_lead, flight_hour, length_of_stay, flight_duration, flight_day.**
+
